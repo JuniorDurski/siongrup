@@ -1,0 +1,501 @@
+0    [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ArchitectUtils  - Log4J configured successfully
+404  [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Beginning to read/merge new pl.ini data
+456  [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Finished reading file.
+456  [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Beginning to read/merge new pl.ini data
+485  [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Finished reading file.
+22196 [Thread-5] ERROR ca.sqlpower.architect.swingui.action.CheckForUpdateAction  - Fail to retrieve current version number!
+0    [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ArchitectUtils  - Log4J configured successfully
+474  [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Beginning to read/merge new pl.ini data
+519  [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Finished reading file.
+519  [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Beginning to read/merge new pl.ini data
+545  [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Finished reading file.
+22173 [Thread-5] ERROR ca.sqlpower.architect.swingui.action.CheckForUpdateAction  - Fail to retrieve current version number!
+162666 [AWT-EventQueue-0] WARN  ca.sqlpower.sqlobject.ForeignKeyColumnUpdaterPoolingSPListener  - Warning: unknown SQLTypePhysicalProperties property name changed while monitoring pkTable
+162666 [AWT-EventQueue-0] WARN  ca.sqlpower.sqlobject.ForeignKeyColumnUpdaterPoolingSPListener  - Warning: unknown UserDefinedSQLType property myAutoIncrement changed while monitoring pkTable
+162667 [AWT-EventQueue-0] WARN  ca.sqlpower.sqlobject.ForeignKeyColumnUpdaterPoolingSPListener  - Warning: unknown SQLTypePhysicalProperties property name changed while monitoring pkTable
+162668 [AWT-EventQueue-0] WARN  ca.sqlpower.sqlobject.ForeignKeyColumnUpdaterPoolingSPListener  - Warning: unknown UserDefinedSQLType property myAutoIncrement changed while monitoring pkTable
+171218 [AWT-EventQueue-0] WARN  ca.sqlpower.sqlobject.ForeignKeyColumnUpdaterPoolingSPListener  - Warning: unknown SQLTypePhysicalProperties property name changed while monitoring pkTable
+171218 [AWT-EventQueue-0] WARN  ca.sqlpower.sqlobject.ForeignKeyColumnUpdaterPoolingSPListener  - Warning: unknown UserDefinedSQLType property myAutoIncrement changed while monitoring pkTable
+171218 [AWT-EventQueue-0] WARN  ca.sqlpower.sqlobject.ForeignKeyColumnUpdaterPoolingSPListener  - Warning: unknown SQLTypePhysicalProperties property name changed while monitoring pkTable
+171218 [AWT-EventQueue-0] WARN  ca.sqlpower.sqlobject.ForeignKeyColumnUpdaterPoolingSPListener  - Warning: unknown UserDefinedSQLType property myAutoIncrement changed while monitoring pkTable
+202969 [AWT-EventQueue-0] WARN  ca.sqlpower.sqlobject.ForeignKeyColumnUpdaterPoolingSPListener  - Warning: unknown SQLTypePhysicalProperties property name changed while monitoring pkTable
+202969 [AWT-EventQueue-0] WARN  ca.sqlpower.sqlobject.ForeignKeyColumnUpdaterPoolingSPListener  - Warning: unknown UserDefinedSQLType property myAutoIncrement changed while monitoring pkTable
+211928 [AWT-EventQueue-0] WARN  ca.sqlpower.sqlobject.ForeignKeyColumnUpdaterPoolingSPListener  - Warning: unknown SQLTypePhysicalProperties property name changed while monitoring pkTable
+211929 [AWT-EventQueue-0] WARN  ca.sqlpower.sqlobject.ForeignKeyColumnUpdaterPoolingSPListener  - Warning: unknown UserDefinedSQLType property myAutoIncrement changed while monitoring pkTable
+211929 [AWT-EventQueue-0] WARN  ca.sqlpower.sqlobject.ForeignKeyColumnUpdaterPoolingSPListener  - Warning: unknown SQLTypePhysicalProperties property name changed while monitoring pkTable
+211930 [AWT-EventQueue-0] WARN  ca.sqlpower.sqlobject.ForeignKeyColumnUpdaterPoolingSPListener  - Warning: unknown UserDefinedSQLType property myAutoIncrement changed while monitoring pkTable
+222969 [AWT-EventQueue-0] WARN  ca.sqlpower.sqlobject.ForeignKeyColumnUpdaterPoolingSPListener  - Warning: unknown SQLTypePhysicalProperties property name changed while monitoring pkTable
+222969 [AWT-EventQueue-0] WARN  ca.sqlpower.sqlobject.ForeignKeyColumnUpdaterPoolingSPListener  - Warning: unknown UserDefinedSQLType property myAutoIncrement changed while monitoring pkTable
+242825 [AWT-EventQueue-0] WARN  ca.sqlpower.sqlobject.ForeignKeyColumnUpdaterPoolingSPListener  - Warning: unknown SQLTypePhysicalProperties property name changed while monitoring pkTable
+242825 [AWT-EventQueue-0] WARN  ca.sqlpower.sqlobject.ForeignKeyColumnUpdaterPoolingSPListener  - Warning: unknown UserDefinedSQLType property myAutoIncrement changed while monitoring pkTable
+242826 [AWT-EventQueue-0] WARN  ca.sqlpower.sqlobject.ForeignKeyColumnUpdaterPoolingSPListener  - Warning: unknown SQLTypePhysicalProperties property name changed while monitoring pkTable
+242826 [AWT-EventQueue-0] WARN  ca.sqlpower.sqlobject.ForeignKeyColumnUpdaterPoolingSPListener  - Warning: unknown UserDefinedSQLType property myAutoIncrement changed while monitoring pkTable
+253736 [AWT-EventQueue-0] WARN  ca.sqlpower.sqlobject.ForeignKeyColumnUpdaterPoolingSPListener  - Warning: unknown SQLTypePhysicalProperties property name changed while monitoring pkTable
+253737 [AWT-EventQueue-0] WARN  ca.sqlpower.sqlobject.ForeignKeyColumnUpdaterPoolingSPListener  - Warning: unknown UserDefinedSQLType property myAutoIncrement changed while monitoring pkTable
+264152 [AWT-EventQueue-0] WARN  ca.sqlpower.sqlobject.ForeignKeyColumnUpdaterPoolingSPListener  - Warning: unknown SQLTypePhysicalProperties property name changed while monitoring pkTable
+264152 [AWT-EventQueue-0] WARN  ca.sqlpower.sqlobject.ForeignKeyColumnUpdaterPoolingSPListener  - Warning: unknown UserDefinedSQLType property myAutoIncrement changed while monitoring pkTable
+20185806 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+CREATE TABLE material (
+                id_material INTEGER NOT NULL,
+                CONSTRAINT material_pk PRIMARY KEY (id_material)
+)
+20185806 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+
+CREATE TABLE modulo (
+                id_modulo INTEGER NOT NULL,
+                CONSTRAINT modulo_pk PRIMARY KEY (id_modulo)
+)
+20185806 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+
+CREATE TABLE role (
+                id_role INTEGER NOT NULL,
+                CONSTRAINT role_pk PRIMARY KEY (id_role)
+)
+20185806 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+
+CREATE TABLE permiso (
+                id_role INTEGER NOT NULL,
+                id_modulo INTEGER NOT NULL,
+                CONSTRAINT permiso_pk PRIMARY KEY (id_role, id_modulo)
+)
+20185807 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+
+CREATE TABLE empleado (
+                id_empleado INTEGER NOT NULL,
+                id_role INTEGER NOT NULL,
+                CONSTRAINT empleado_pk PRIMARY KEY (id_empleado)
+)
+20185807 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+
+CREATE TABLE promocion (
+                id_promocion INTEGER NOT NULL,
+                CONSTRAINT promocion_pk PRIMARY KEY (id_promocion)
+)
+20185807 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+
+CREATE TABLE vehiculo (
+                id_vehiculo INTEGER NOT NULL,
+                CONSTRAINT vehiculo_pk PRIMARY KEY (id_vehiculo)
+)
+20185807 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+
+CREATE TABLE servicio (
+                id_servicio INTEGER NOT NULL,
+                CONSTRAINT servicio_pk PRIMARY KEY (id_servicio)
+)
+20185807 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+
+CREATE TABLE uso (
+                id_uso INTEGER NOT NULL,
+                id_material INTEGER NOT NULL,
+                id_servicio INTEGER NOT NULL,
+                CONSTRAINT uso_pk PRIMARY KEY (id_uso)
+)
+20185807 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+
+CREATE TABLE cliente (
+                id_cliente INTEGER NOT NULL,
+                cli_nombre VARCHAR(999) NOT NULL,
+                cli_telefono VARCHAR NOT NULL,
+                cli_usuario VARCHAR NOT NULL,
+                cli_clave VARCHAR NOT NULL,
+                cli_direccion VARCHAR NOT NULL,
+                CONSTRAINT cliente_pk PRIMARY KEY (id_cliente)
+)
+20185808 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+
+CREATE TABLE turno (
+                id_turno INTEGER NOT NULL,
+                id_cliente INTEGER NOT NULL,
+                id_empleado INTEGER NOT NULL,
+                id_vehiculo INTEGER NOT NULL,
+                CONSTRAINT turno_pk PRIMARY KEY (id_turno)
+)
+20185808 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+
+CREATE TABLE opiniones (
+                id_opiniones INTEGER NOT NULL,
+                id_cliente INTEGER NOT NULL,
+                id_turno INTEGER NOT NULL,
+                opi_nota VARCHAR NOT NULL,
+                opi_calificacion VARCHAR NOT NULL,
+                CONSTRAINT opiniones_pk PRIMARY KEY (id_opiniones)
+)
+20185808 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+
+CREATE TABLE turno_detalle (
+                id_turnodetalle INTEGER NOT NULL,
+                id_turno INTEGER NOT NULL,
+                id_servicio INTEGER NOT NULL,
+                id_promocion INTEGER NOT NULL,
+                CONSTRAINT turno_detalle_pk PRIMARY KEY (id_turnodetalle)
+)
+20185808 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+
+ALTER TABLE uso ADD CONSTRAINT material_uso_fk
+FOREIGN KEY (id_material)
+REFERENCES material (id_material)
+ON DELETE NO ACTION
+ON UPDATE NO ACTION
+NOT DEFERRABLE
+20185808 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+ALTER TABLE permiso ADD CONSTRAINT modulo_permiso_fk
+FOREIGN KEY (id_modulo)
+REFERENCES modulo (id_modulo)
+ON DELETE NO ACTION
+ON UPDATE NO ACTION
+NOT DEFERRABLE
+20185808 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+ALTER TABLE empleado ADD CONSTRAINT role_empleado_fk
+FOREIGN KEY (id_role)
+REFERENCES role (id_role)
+ON DELETE NO ACTION
+ON UPDATE NO ACTION
+NOT DEFERRABLE
+20185808 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+ALTER TABLE permiso ADD CONSTRAINT role_permiso_fk
+FOREIGN KEY (id_role)
+REFERENCES role (id_role)
+ON DELETE NO ACTION
+ON UPDATE NO ACTION
+NOT DEFERRABLE
+20185808 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+ALTER TABLE turno ADD CONSTRAINT empleado_turno_fk
+FOREIGN KEY (id_empleado)
+REFERENCES empleado (id_empleado)
+ON DELETE NO ACTION
+ON UPDATE NO ACTION
+NOT DEFERRABLE
+20185809 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+ALTER TABLE turno_detalle ADD CONSTRAINT promocion_turno_detalle_fk
+FOREIGN KEY (id_promocion)
+REFERENCES promocion (id_promocion)
+ON DELETE NO ACTION
+ON UPDATE NO ACTION
+NOT DEFERRABLE
+20185809 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+ALTER TABLE turno ADD CONSTRAINT vehiculo_turno_fk
+FOREIGN KEY (id_vehiculo)
+REFERENCES vehiculo (id_vehiculo)
+ON DELETE NO ACTION
+ON UPDATE NO ACTION
+NOT DEFERRABLE
+20185809 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+ALTER TABLE turno_detalle ADD CONSTRAINT servicio_turno_detalle_fk
+FOREIGN KEY (id_servicio)
+REFERENCES servicio (id_servicio)
+ON DELETE NO ACTION
+ON UPDATE NO ACTION
+NOT DEFERRABLE
+20185809 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+ALTER TABLE uso ADD CONSTRAINT servicio_uso_fk
+FOREIGN KEY (id_servicio)
+REFERENCES servicio (id_servicio)
+ON DELETE NO ACTION
+ON UPDATE NO ACTION
+NOT DEFERRABLE
+20185809 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+ALTER TABLE turno ADD CONSTRAINT cliente_turno_fk
+FOREIGN KEY (id_cliente)
+REFERENCES cliente (id_cliente)
+ON DELETE NO ACTION
+ON UPDATE NO ACTION
+NOT DEFERRABLE
+20185809 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+ALTER TABLE opiniones ADD CONSTRAINT cliente_opiniones_fk
+FOREIGN KEY (id_cliente)
+REFERENCES cliente (id_cliente)
+ON DELETE NO ACTION
+ON UPDATE NO ACTION
+NOT DEFERRABLE
+20185811 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+ALTER TABLE turno_detalle ADD CONSTRAINT turno_turno_detalle_fk
+FOREIGN KEY (id_turno)
+REFERENCES turno (id_turno)
+ON DELETE NO ACTION
+ON UPDATE NO ACTION
+NOT DEFERRABLE
+20185811 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+ALTER TABLE opiniones ADD CONSTRAINT turno_opiniones_fk
+FOREIGN KEY (id_turno)
+REFERENCES turno (id_turno)
+ON DELETE NO ACTION
+ON UPDATE NO ACTION
+NOT DEFERRABLE
+20185815 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.swingui.SQLScriptDialog  - The list size is :26
+20399808 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.swingui.PlayPen  - Drop: I am over dtde=java.awt.dnd.DropTargetDropEvent[source=java.awt.dnd.DropTarget@ff83d3a]
+20404189 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.swingui.PlayPen  - Drop: I am over dtde=java.awt.dnd.DropTargetDropEvent[source=java.awt.dnd.DropTarget@ff83d3a]
+20405934 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.swingui.PlayPen  - Drop: I am over dtde=java.awt.dnd.DropTargetDropEvent[source=java.awt.dnd.DropTarget@ff83d3a]
+20583550 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.swingui.PlayPen  - Drop: I am over dtde=java.awt.dnd.DropTargetDropEvent[source=java.awt.dnd.DropTarget@ff83d3a]
+20585054 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.swingui.PlayPen  - Drop: I am over dtde=java.awt.dnd.DropTargetDropEvent[source=java.awt.dnd.DropTarget@ff83d3a]
+20745478 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.swingui.PlayPen  - Drop: I am over dtde=java.awt.dnd.DropTargetDropEvent[source=java.awt.dnd.DropTarget@ff83d3a]
+0    [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ArchitectUtils  - Log4J configured successfully
+398  [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Beginning to read/merge new pl.ini data
+447  [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Finished reading file.
+448  [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Beginning to read/merge new pl.ini data
+474  [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Finished reading file.
+7251 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+CREATE TABLE material (
+                id_material INTEGER NOT NULL,
+                mat_nombre VARCHAR(999) NOT NULL,
+                mat_stock INTEGER NOT NULL,
+                mat_unidad VARCHAR NOT NULL,
+                CONSTRAINT material_pk PRIMARY KEY (id_material)
+)
+7251 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+
+CREATE TABLE modulo (
+                id_modulo INTEGER NOT NULL,
+                mod_descripcion VARCHAR NOT NULL,
+                CONSTRAINT modulo_pk PRIMARY KEY (id_modulo)
+)
+7251 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+
+CREATE TABLE role (
+                id_role INTEGER NOT NULL,
+                rol_descripcion VARCHAR NOT NULL,
+                CONSTRAINT role_pk PRIMARY KEY (id_role)
+)
+7252 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+
+CREATE TABLE permiso (
+                id_role INTEGER NOT NULL,
+                id_modulo INTEGER NOT NULL,
+                CONSTRAINT permiso_pk PRIMARY KEY (id_role, id_modulo)
+)
+7252 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+
+CREATE TABLE empleado (
+                id_empleado INTEGER NOT NULL,
+                id_role INTEGER NOT NULL,
+                emp_nombre VARCHAR NOT NULL,
+                emp_cedula VARCHAR NOT NULL,
+                emp_usuario VARCHAR NOT NULL,
+                emp_clave VARCHAR NOT NULL,
+                emp_direccion VARCHAR NOT NULL,
+                emp_telefono VARCHAR NOT NULL,
+                CONSTRAINT empleado_pk PRIMARY KEY (id_empleado)
+)
+7252 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+
+CREATE TABLE promocion (
+                id_promocion INTEGER NOT NULL,
+                pro_descripcion VARCHAR NOT NULL,
+                pro_descuento VARCHAR NOT NULL,
+                pro_vigencia_inicial VARCHAR NOT NULL,
+                pro_vigencia_fin VARCHAR NOT NULL,
+                CONSTRAINT promocion_pk PRIMARY KEY (id_promocion)
+)
+7252 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+
+CREATE TABLE vehiculo (
+                id_vehiculo INTEGER NOT NULL,
+                veh_nombre VARCHAR NOT NULL,
+                veh_marca VARCHAR NOT NULL,
+                veh_modelo VARCHAR NOT NULL,
+                veh_ano VARCHAR NOT NULL,
+                veh_color VARCHAR NOT NULL,
+                veh_patente VARCHAR NOT NULL,
+                CONSTRAINT vehiculo_pk PRIMARY KEY (id_vehiculo)
+)
+7253 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+
+CREATE TABLE servicio (
+                id_servicio INTEGER NOT NULL,
+                ser_nombre VARCHAR NOT NULL,
+                ser_precio VARCHAR NOT NULL,
+                ser_duracion VARCHAR NOT NULL,
+                CONSTRAINT servicio_pk PRIMARY KEY (id_servicio)
+)
+7253 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+
+CREATE TABLE uso (
+                id_uso INTEGER NOT NULL,
+                id_material INTEGER NOT NULL,
+                id_servicio INTEGER NOT NULL,
+                CONSTRAINT uso_pk PRIMARY KEY (id_uso)
+)
+7253 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+
+CREATE TABLE cliente (
+                id_cliente INTEGER NOT NULL,
+                cli_nombre VARCHAR(999) NOT NULL,
+                cli_direccion VARCHAR NOT NULL,
+                cli_telefono VARCHAR NOT NULL,
+                cli_usuario VARCHAR NOT NULL,
+                cli_clave VARCHAR NOT NULL,
+                CONSTRAINT cliente_pk PRIMARY KEY (id_cliente)
+)
+7253 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+
+CREATE TABLE turno (
+                id_turno INTEGER NOT NULL,
+                id_cliente INTEGER NOT NULL,
+                id_empleado INTEGER NOT NULL,
+                id_vehiculo INTEGER NOT NULL,
+                tur_fecha VARCHAR NOT NULL,
+                tur_total VARCHAR NOT NULL,
+                CONSTRAINT turno_pk PRIMARY KEY (id_turno)
+)
+7253 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+
+CREATE TABLE opiniones (
+                id_opiniones INTEGER NOT NULL,
+                id_cliente INTEGER NOT NULL,
+                id_turno INTEGER NOT NULL,
+                opi_nota VARCHAR NOT NULL,
+                opi_calificacion VARCHAR NOT NULL,
+                CONSTRAINT opiniones_pk PRIMARY KEY (id_opiniones)
+)
+7253 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+
+CREATE TABLE turno_detalle (
+                id_turnodetalle INTEGER NOT NULL,
+                id_turno INTEGER NOT NULL,
+                id_servicio INTEGER NOT NULL,
+                id_promocion INTEGER NOT NULL,
+                CONSTRAINT turno_detalle_pk PRIMARY KEY (id_turnodetalle)
+)
+7254 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+
+ALTER TABLE uso ADD CONSTRAINT material_uso_fk
+FOREIGN KEY (id_material)
+REFERENCES material (id_material)
+ON DELETE NO ACTION
+ON UPDATE NO ACTION
+NOT DEFERRABLE
+7254 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+ALTER TABLE permiso ADD CONSTRAINT modulo_permiso_fk
+FOREIGN KEY (id_modulo)
+REFERENCES modulo (id_modulo)
+ON DELETE NO ACTION
+ON UPDATE NO ACTION
+NOT DEFERRABLE
+7254 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+ALTER TABLE empleado ADD CONSTRAINT role_empleado_fk
+FOREIGN KEY (id_role)
+REFERENCES role (id_role)
+ON DELETE NO ACTION
+ON UPDATE NO ACTION
+NOT DEFERRABLE
+7254 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+ALTER TABLE permiso ADD CONSTRAINT role_permiso_fk
+FOREIGN KEY (id_role)
+REFERENCES role (id_role)
+ON DELETE NO ACTION
+ON UPDATE NO ACTION
+NOT DEFERRABLE
+7254 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+ALTER TABLE turno ADD CONSTRAINT empleado_turno_fk
+FOREIGN KEY (id_empleado)
+REFERENCES empleado (id_empleado)
+ON DELETE NO ACTION
+ON UPDATE NO ACTION
+NOT DEFERRABLE
+7254 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+ALTER TABLE turno_detalle ADD CONSTRAINT promocion_turno_detalle_fk
+FOREIGN KEY (id_promocion)
+REFERENCES promocion (id_promocion)
+ON DELETE NO ACTION
+ON UPDATE NO ACTION
+NOT DEFERRABLE
+7254 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+ALTER TABLE turno ADD CONSTRAINT vehiculo_turno_fk
+FOREIGN KEY (id_vehiculo)
+REFERENCES vehiculo (id_vehiculo)
+ON DELETE NO ACTION
+ON UPDATE NO ACTION
+NOT DEFERRABLE
+7254 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+ALTER TABLE turno_detalle ADD CONSTRAINT servicio_turno_detalle_fk
+FOREIGN KEY (id_servicio)
+REFERENCES servicio (id_servicio)
+ON DELETE NO ACTION
+ON UPDATE NO ACTION
+NOT DEFERRABLE
+7254 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+ALTER TABLE uso ADD CONSTRAINT servicio_uso_fk
+FOREIGN KEY (id_servicio)
+REFERENCES servicio (id_servicio)
+ON DELETE NO ACTION
+ON UPDATE NO ACTION
+NOT DEFERRABLE
+7254 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+ALTER TABLE turno ADD CONSTRAINT cliente_turno_fk
+FOREIGN KEY (id_cliente)
+REFERENCES cliente (id_cliente)
+ON DELETE NO ACTION
+ON UPDATE NO ACTION
+NOT DEFERRABLE
+7255 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+ALTER TABLE opiniones ADD CONSTRAINT cliente_opiniones_fk
+FOREIGN KEY (id_cliente)
+REFERENCES cliente (id_cliente)
+ON DELETE NO ACTION
+ON UPDATE NO ACTION
+NOT DEFERRABLE
+7255 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+ALTER TABLE turno_detalle ADD CONSTRAINT turno_turno_detalle_fk
+FOREIGN KEY (id_turno)
+REFERENCES turno (id_turno)
+ON DELETE NO ACTION
+ON UPDATE NO ACTION
+NOT DEFERRABLE
+7255 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ddl.GenericDDLGenerator  - endStatement: 
+
+ALTER TABLE opiniones ADD CONSTRAINT turno_opiniones_fk
+FOREIGN KEY (id_turno)
+REFERENCES turno (id_turno)
+ON DELETE NO ACTION
+ON UPDATE NO ACTION
+NOT DEFERRABLE
+7257 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.swingui.SQLScriptDialog  - The list size is :26
